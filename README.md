@@ -1,5 +1,5 @@
 <!-- Template for the kata table
-## 8kyu Katas
+## 8kyu Katas :white_heart:
 
 <br>
 
@@ -21,7 +21,7 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA) and follow [me](https://www.c
 
 ---
 
-## 4kyu Katas
+## 4kyu Katas :blue_heart:
 
 <br>
 
@@ -37,7 +37,7 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA) and follow [me](https://www.c
 
 ---
 
-## 5kyu Katas
+## 5kyu Katas :yellow_heart:
 
 <br>
 
@@ -53,7 +53,7 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA) and follow [me](https://www.c
 
 ---
 
-## 6kyu Katas
+## 6kyu Katas :yellow_heart:
 
 <br>
 
@@ -74,7 +74,7 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA) and follow [me](https://www.c
 
 ---
 
-## 7kyu Katas
+## 7kyu Katas :white_heart:
 
 <br>
 
@@ -89,7 +89,7 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA) and follow [me](https://www.c
 
 ---
 
-## 8kyu Katas
+## 8kyu Katas :white_heart:
 
 <br>
 
