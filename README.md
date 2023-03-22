@@ -84,7 +84,7 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA) and follow [me](https://www.c
 | [**Is this a triangle?**](https://github.com/DavidSiretMarques/CodeWars-Katas/blob/main/is_this_a_triangle.py)  | None | [**Solve it!**](https://www.codewars.com/kata/56606694ec01347ce800001b) |
 | [**Complementary DNA**](https://github.com/DavidSiretMarques/CodeWars-Katas/blob/main/complementary-DNA.py)  | None | [**Solve it!**](https://www.codewars.com/kata/554e4a2f232cdd87d9000038) |
 | [**Highest and lowest**](https://github.com/DavidSiretMarques/CodeWars-Katas/blob/main/Highest-lowest.py)  | None | [**Solve it!**](https://www.codewars.com/kata/554b4ac871d6813a03000035) |
-
+| [**Person Class Bug**](https://github.com/DavidSiretMarques/CodeWars-Katas/blob/main/person-class-bug.py)  | None | [**Solve it!**](https://www.codewars.com/kata/513f887e484edf3eb3000001/python) |
 <br>
 
 ---
