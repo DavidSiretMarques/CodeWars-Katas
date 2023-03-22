@@ -68,7 +68,7 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA) and follow [me](https://www.c
 | [**Split Strings**](https://github.com/DavidSiretMarques/CodeWars-Katas/blob/main/6kyu/split-strings.py)  | None | [**Solve it!**](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001) |
 | [**Tribonacci Sequence**](https://github.com/DavidSiretMarques/CodeWars-Katas/blob/main/6kyu/tribonacci.py)  | None | [**Solve it!**](https://www.codewars.com/kata/556deca17c58da83c00002db) |
 | [**Are they the "same"?**](https://github.com/DavidSiretMarques/CodeWars-Katas/blob/main/6kyu/are-they-the-same.py)  | None | [**Solve it!**](https://www.codewars.com/kata/550498447451fbbd7600041c) |
-| [**Array.diff**](https://github.com/DavidSiretMarques/CodeWars-Katas/blob/main/array-diff.py)  | None | [**Solve it!**](https://www.codewars.com/kata/523f5d21c841566fde000009) |
+| [**Array.diff**](https://github.com/DavidSiretMarques/CodeWars-Katas/blob/main/6kyu/array-diff.py)  | None | [**Solve it!**](https://www.codewars.com/kata/523f5d21c841566fde000009) |
 
 <br>
 
