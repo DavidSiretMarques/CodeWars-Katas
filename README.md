@@ -27,6 +27,7 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA) and follow [me](https://www.c
 
 | Kata(s) | Tests | CW Link |
 |--|--|--|
+| [**Sum Strings as Numbers**](https://github.com/DavidSiretMarques/CodeWars-Katas/blob/main/numberstrings_kata.py)  | [Here](https://github.com/DavidSiretMarques/CodeWars-Katas/blob/main/test_numberstrings_kata.py) | [**Solve it!**](https://www.codewars.com/kata/5324945e2ece5e1f32000370) |
 | [**Hamming Numbers**](https://github.com/DavidSiretMarques/CodeWars-Katas/blob/main/hamming_numbers.py)  | None | [**Solve it!**](https://www.codewars.com/kata/526d84b98f428f14a60008da) |
 | [**Catching Car Mileage Numbers**](https://github.com/DavidSiretMarques/CodeWars-Katas/blob/main/catching-car-mileage-numbers.py)  | None | [**Solve it!**](https://www.codewars.com/kata/52c4dd683bfd3b434c000292) |
 | [**Social Golfer Problem Validator**](https://github.com/DavidSiretMarques/CodeWars-Katas/blob/main/social-golfer-problem-validator.py)  | None | [**Solve it!**](https://www.codewars.com/kata/556c04c72ee1147ff20000c9) |
@@ -80,7 +81,7 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA) and follow [me](https://www.c
 | Kata(s) |Github file | CW Link |
 |--|--|--|
 | [**Isograms**](https://github.com/DavidSiretMarques/CodeWars-Katas/blob/main/isograms.py)  | None | [**Solve it!**](https://www.codewars.com/kata/54ba84be607a92aa900000f1) |
-| [**Is this a triangle? **](https://github.com/DavidSiretMarques/CodeWars-Katas/blob/main/is_this_a_triangle.py)  | None | [**Solve it!**](https://www.codewars.com/kata/56606694ec01347ce800001b) |
+| [**Is this a triangle?**](https://github.com/DavidSiretMarques/CodeWars-Katas/blob/main/is_this_a_triangle.py)  | None | [**Solve it!**](https://www.codewars.com/kata/56606694ec01347ce800001b) |
 | [**Complementary DNA**](https://github.com/DavidSiretMarques/CodeWars-Katas/blob/main/complementary-DNA.py)  | None | [**Solve it!**](https://www.codewars.com/kata/554e4a2f232cdd87d9000038) |
 | [**Highest and lowest**](https://github.com/DavidSiretMarques/CodeWars-Katas/blob/main/Highest-lowest.py)  | None | [**Solve it!**](https://www.codewars.com/kata/554b4ac871d6813a03000035) |
 
