@@ -48,6 +48,8 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA) and follow [me](https://www.c
 | [**Simple Pig Latin**](https://github.com/DavidSiretMarques/CodeWars-Katas/blob/main/5kyu/pig-latin.py)  | None | [**Solve it!**](https://www.codewars.com/kata/520b9d2ad5c005041100000f) |
 | [**Pete, the baker**](https://github.com/DavidSiretMarques/CodeWars-Katas/blob/main/5kyu/pete-the-baker.py)  | None | [**Solve it!**](https://www.codewars.com/kata/525c65e51bf619685c000059) |
 | [**Weight for weight**](https://github.com/DavidSiretMarques/CodeWars-Katas/blob/main/5kyu/weight-for-weight.py)  | None | [**Solve it!**](https://www.codewars.com/kata/55c6126177c9441a570000cc) |
+| [**PaginationHelper**](https://github.com/DavidSiretMarques/CodeWars-Katas/blob/main/5kyu/pagination_helper.py)  | [Here](https://github.com/DavidSiretMarques/CodeWars-Katas/blob/main/5kyu/test_pagination_helper.py) | [**Solve it!**](https://www.codewars.com/kata/515bb423de843ea99400000a) |
+
 
 <br>
 
