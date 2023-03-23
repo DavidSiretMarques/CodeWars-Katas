@@ -73,6 +73,8 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA) and follow [me](https://www.c
 | [**Array.diff**](https://github.com/DavidSiretMarques/CodeWars-Katas/blob/main/6kyu/array-diff.py)  | None | [**Solve it!**](https://www.codewars.com/kata/523f5d21c841566fde000009) |
 | [**Ball Upwards**](https://github.com/DavidSiretMarques/CodeWars-Katas/blob/main/6kyu/ball_upwards.py)  | [Here](https://github.com/DavidSiretMarques/CodeWars-Katas/blob/main/6kyu/test_ball_upwards.py) | [**Solve it!**](https://www.codewars.com/kata/566be96bb3174e155300001b) |
 | [**Who likes it?**](https://github.com/DavidSiretMarques/CodeWars-Katas/blob/main/6kyu/who_likes_it.py)  | None | [**Solve it!**](https://www.codewars.com/kata/5266876b8f4bf2da9b000362) |
+| [**Count the smiley faces!**](https://github.com/DavidSiretMarques/CodeWars-Katas/blob/main/6kyu/count_the_smiley_faces.py)  | [Here](https://github.com/DavidSiretMarques/CodeWars-Katas/blob/main/6kyu/test_count_the_smiley_faces.py) | [**Solve it!**](https://www.codewars.com/kata/583203e6eb35d7980400002a) |
+
 
 <br>
 
