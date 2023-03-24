@@ -17,7 +17,9 @@
 
 Join [CodeWars](https://www.codewars.com/r/hbGshA) and follow [me](https://www.codewars.com/users/Thor-Pedo)!
 
-##### Important! : These solutions for education purpose only. Don't directly use them on Codewars katas. Create your own solutions to learn more.
+### Important! : These solutions for education purpose only. Don't directly use them on Codewars katas. Create your own solutions to learn more.
+
+The tests are done by me, they can (but may not) be the same tests as the ones in codewars (meaning if you're using my tests as a means to see if your code would pass, it might not pass because of that)
 
 ---
 
