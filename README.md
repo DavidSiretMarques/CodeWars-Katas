@@ -34,6 +34,7 @@ The tests are done by me, they can (but may not) be the same tests as the ones i
 | [**Catching Car Mileage Numbers**](https://github.com/DavidSiretMarques/CodeWars-Katas/blob/main/4kyu/catching-car-mileage-numbers.py)  | None | [**Solve it!**](https://www.codewars.com/kata/52c4dd683bfd3b434c000292) |
 | [**Social Golfer Problem Validator**](https://github.com/DavidSiretMarques/CodeWars-Katas/blob/main/4kyu/social-golfer-problem-validator.py)  | None | [**Solve it!**](https://www.codewars.com/kata/556c04c72ee1147ff20000c9) |
 | [**Human Readable Duration Format**](https://github.com/DavidSiretMarques/CodeWars-Katas/blob/main/4kyu/human-readable-duration-format.py)  | None | [**Solve it!**](https://www.codewars.com/kata/52742f58faf5485cae000b9a) |
+| [**Strip Comments**](https://github.com/DavidSiretMarques/CodeWars-Katas/blob/main/4kyu/strip_comments.py)  | [Here](https://github.com/DavidSiretMarques/CodeWars-Katas/blob/main/4kyu/test_strip_comments.py) | [**Solve it!**](https://www.codewars.com/kata/51c8e37cee245da6b40000bd) |
 
 <br>
 
