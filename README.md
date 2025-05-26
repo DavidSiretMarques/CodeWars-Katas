@@ -87,7 +87,7 @@ The tests are done by me, they can (but may not) be the same tests as the ones i
 
 <br>
 
-| Kata(s) |Github file | CW Link |
+| Kata(s) |Tests | CW Link |
 |--|--|--|
 | [**Isograms**](https://github.com/DavidSiretMarques/CodeWars-Katas/blob/main/7kyu/isograms.py)  | None | [**Solve it!**](https://www.codewars.com/kata/54ba84be607a92aa900000f1) |
 | [**Is this a triangle?**](https://github.com/DavidSiretMarques/CodeWars-Katas/blob/main/7kyu/is_this_a_triangle.py)  | None | [**Solve it!**](https://www.codewars.com/kata/56606694ec01347ce800001b) |
@@ -102,7 +102,7 @@ The tests are done by me, they can (but may not) be the same tests as the ones i
 
 <br>
 
-| Kata(s) |Github file | CW Link |
+| Kata(s) |Tests | CW Link |
 |--|--|--|
 | [**Remove First and Last Character**](https://github.com/DavidSiretMarques/CodeWars-Katas/blob/main/8kyu/remove_first_last.py)  | None | [**Solve it!**](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0) |
 | [**Basic subclasses- Adam and Eve**](https://github.com/DavidSiretMarques/CodeWars-Katas/blob/main/8kyu/subclasses-adam-eve.py)  | None | [**Solve it!**](https://www.codewars.com/kata/547274e24481cfc469000416) |
